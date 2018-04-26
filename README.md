@@ -25,4 +25,4 @@ npm run build
 
 ## 效果
 
-![gif](http://cdn.zhangxuefei.site/wp-content/uploads/2018/04/g-170x300.gif)
+![gif](http://cdn.zhangxuefei.site/wp-content/uploads/2018/04/g.gif)
