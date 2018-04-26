@@ -1,0 +1,20 @@
+{
+  "MOCKDATA": [
+    {
+      "url": "/demo/get",
+      "desc": "",
+      "mock": true,
+      "res": {
+        "code": 0,
+        "data": {
+          "list|1-10": [
+            {
+              "id": "@integer(1-100)"
+            }
+          ]
+        },
+        "message": "success"
+      }
+    }
+  ]
+}
